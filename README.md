@@ -1,16 +1,16 @@
 # Profile
 
 ## Education
-M. S. Advanced Data Analytics | * *University of North Texas* *
+M. S. Advanced Data Analytics | *University of North Texas*
 
-B.A. Psychology | * *De La Salle University - Manila* *
+B.A. Psychology | *De La Salle University - Manila*
 
 ## Professional Experience ##
-Avionics Technician | * * Lockheed Martin Aeronautics Company * *
+Avionics Technician | *Lockheed Martin Aeronautics Company*
 
-Information Systems Intern | * * EURPAC Services Inc. * *
+Information Systems Intern | *EURPAC Services Inc.*
 
-Avionics Technician | * * U.S. Navy * *
+Avionics Technician | *U.S. Navy*
 
 # Projects
 
